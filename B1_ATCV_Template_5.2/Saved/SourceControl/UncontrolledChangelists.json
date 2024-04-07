@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Map_Menu.umap",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/MapGame.umap",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Assets/VFX/Dust/Mat/M_Dust.uasset",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Assets/VFX/Dust/Mat/M_Ground_Dust.uasset",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Assets/VFX/Dust/NS_Dust.uasset",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Assets/VFX/Dust/NS_Ground_Dust.uasset",
+				"G:/heaj/project/exam juin/jeu unreal/ATCV/B1_ATCV_Template_5.2/Content/Assets/VFX/Dust/NS_Door_Dust.uasset",
 				"D:/Bureau/B1_TopDownTemplate_V4 -5.2/Content/Map_Cross1.umap",
 				"D:/Bureau/B1_TopDownTemplate_V4 -5.2/Content/TopDownLogic/Blueprints/Input/IA_Move.uasset",
 				"D:/Bureau/B1_TopDownTemplate_V4 -5.2/Content/TopDownLogic/Blueprints/Input/IMC_Hero.uasset",
