@@ -2495,3 +2495,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.08-18.59.15:462][356]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Wall/wall_low_uv_lambert2_Metallic.wall_low_uv_lambert2_Metallic
 [2024.04.08-18.59.15:462][356]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Wall/wall_low_uv_lambert2_Height.wall_low_uv_lambert2_Height
 [2024.04.08-18.59.15:462][356]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Wall/wall_low_uv_lambert2_BaseColor.wall_low_uv_lambert2_BaseColor
+[2024.04.08-19.02.52:445][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
