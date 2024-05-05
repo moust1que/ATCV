@@ -1,0 +1,2 @@
+/Engine/Transient.Default__DEADCLASS_BP_Ennemi_Dummy_Deprecated_C_0
+/Game/TopDownLogic/Blueprints/Ennemies/BP_Ennemi_Parent.BP_Ennemi_Parent_C
